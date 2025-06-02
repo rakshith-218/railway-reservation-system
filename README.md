@@ -1,4 +1,4 @@
-# 🚆 Railway Reservation System (GUI Version)
+# 🚆 Railway Reservation System 
 
 ## 🛠️ Tools & Technologies Used
 - **Python 3**
